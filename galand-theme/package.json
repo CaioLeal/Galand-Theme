@@ -1,0 +1,21 @@
+{
+    "name": "galand-theme",
+    "displayName": "galand theme",
+    "description": "dark theme developed by myself ツ.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Caio Leal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Caio Leal-color-theme.json"
+            }
+        ]
+    }
+}
